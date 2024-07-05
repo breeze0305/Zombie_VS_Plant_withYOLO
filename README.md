@@ -8,7 +8,7 @@
 在此github中提供了
 * 訓練的方法
 * 應用執行的相關程式碼
-* yolo v10n的權重
+* yolo v10訓練好的權重
 
 ## Installation
 ### setup
@@ -73,7 +73,7 @@ print(torch.device("cuda" if torch.cuda.is_available() else "cpu"))
 ## Inference
 > [!IMPORTANT]  
 > **建議在啟動程式前，優先將遊戲打開進入遊戲，並且將遊戲視窗放在最前面。**
-> **請使用窗口化，如果有多個螢幕，請確保遊戲視窗保持在 **螢幕1** 上以便```pyautogui```和```pygetwindow```可以正確的偵測到。**
+> **請使用窗口化，如果有多個螢幕，請確保遊戲視窗保持在 【螢幕1】 上以便```pyautogui```和```pygetwindow```可以正確的偵測到。**
 
 ### weights
 可自行在```yolo_inference.py```中修改自行訓練的權重路徑，或者使用我訓練好的```best.pt```。
