@@ -13,7 +13,8 @@ This GitHub repository provides:
 
 ## Demo
 > The level is located in the adventure mode 2-5 of the first generation of the PC version of ZVP, or you can find the "Bowling Zombies" level in the "Mini-Games" section after completing the game. The adventure mode level is relatively simple. If your trained model cannot pass the "Bowling Zombies" level in the "Mini-Games" section, please try testing it in the adventure mode.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9QPceNWJzYY?si=TsHxX-QR8kJcvOA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9QPceNWJzYY/0.jpg)](https://youtu.be/9QPceNWJzYY)
 
 ## Installation
 ### Setup
