@@ -13,6 +13,7 @@
 ## Demo
 > 此關卡位於zvp一代電腦版的冒險模式2-5，或者在通關遊戲後，在【玩玩小遊戲】中找到【垂殭屍】關卡。冒險模式的關卡較為簡單，如果你訓練的模型無法通過【玩玩小遊戲】中的【垂殭屍】關卡，請嘗試在冒險模式中進行測試。
 
+video:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9QPceNWJzYY/0.jpg)](https://youtu.be/9QPceNWJzYY)
 
 ## Installation

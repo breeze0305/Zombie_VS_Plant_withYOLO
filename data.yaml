@@ -4,10 +4,3 @@ val: version2/valid/images
 
 nc: 1
 names: ['zombie']
-
-# roboflow:
-#   workspace: breeze-rfeop
-#   project: zvp
-#   version: 1
-#   license: CC BY 4.0
-#   url: https://universe.roboflow.com/breeze-rfeop/zvp/dataset/1
