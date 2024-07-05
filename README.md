@@ -84,6 +84,6 @@ python yolo_inference.py
 
 ## Acknowledgement
 * [yolov10](https://docs.ultralytics.com/models/yolov10/)
-* [robosflow](https://app.roboflow.com/)
+* [roboflow](https://app.roboflow.com/)
 * [labelimg](https://github.com/HumanSignal/labelImg)
 * [zombie vs plant](https://ggheart999.blogspot.com/2018/08/megapcslgplants-vs-zombies.html)
