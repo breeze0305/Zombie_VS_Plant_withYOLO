@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+PIL
+numpy
+pyautogui
+pygetwindow
