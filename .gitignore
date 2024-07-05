@@ -3,11 +3,14 @@ yolov8n.pt
 yolov10n.pt
 .gitignore
 
+
+source/
+
 game/
 
 runs/
 
 dataset/
 
-src/
+
 
