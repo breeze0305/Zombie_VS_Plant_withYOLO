@@ -1,7 +1,7 @@
 # Zombie VS Plant with YOLOv10
 
 > [!IMPORTANT]  
-> 在此專案中，並沒有提供遊戲檔案等其他侵權素材，請使用者自行在網路上尋找相關文件，此專案僅供學習使用，謝謝大家。
+> **在此專案中，並沒有提供遊戲檔案等其他侵權素材，請使用者自行在網路上尋找相關文件，此專案僅供學習使用，謝謝大家。**
 
 此專案利用```yolo v10n```、```opencv```、```pyautogui```、```pygetwindow```這幾個python庫，來完成zvp的自動遊戲。
 
@@ -65,15 +65,15 @@ print(torch.device("cuda" if torch.cuda.is_available() else "cpu"))
 * 2.修改```yolo_train.py```中的參數
 * 3.執行```yolo_train.py```直到模型停止訓練
 
-> [!TIP]
-> 可以使用roboflow或者labelimg等工具來標記資料集，並且轉換成yolo格式。(資料集相對較小時，推薦使用roboflow來標記檔案)
+> [!TIP]  
+> **可以使用roboflow或者labelimg等工具來標記資料集，並且轉換成yolo格式。(資料集相對較小時，推薦使用roboflow來標記檔案)**
 
 
 
 ## Inference
 > [!IMPORTANT]  
-> 建議在啟動程式前，優先將遊戲打開進入遊戲，並且將遊戲視窗放在最前面。  
-> 請使用窗口化，如果有多個螢幕，請確保遊戲視窗保持在 **螢幕1** 上以便```pyautogui```和```pygetwindow```可以正確的偵測到。
+> **建議在啟動程式前，優先將遊戲打開進入遊戲，並且將遊戲視窗放在最前面。**
+> **請使用窗口化，如果有多個螢幕，請確保遊戲視窗保持在 **螢幕1** 上以便```pyautogui```和```pygetwindow```可以正確的偵測到。**
 
 ### weights
 可自行在```yolo_inference.py```中修改自行訓練的權重路徑，或者使用我訓練好的```best.pt```。
