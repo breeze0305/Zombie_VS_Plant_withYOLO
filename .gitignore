@@ -1,9 +1,13 @@
 yolo_autolabel.py
 yolov8n.pt
 yolov10n.pt
+.gitignore
 
 game/
 
 runs/
 
 dataset/
+
+src/
+
