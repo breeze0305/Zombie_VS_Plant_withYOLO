@@ -14,7 +14,7 @@ def take_shot(window:str)->Image:
         return screenshot
 
 def main():
-    model = YOLO("best2.pt") # yolo v10n.pt
+    model = YOLO("best.pt") # yolo v10n.pt
     window_title = "眵昜湮桵蔗坌笢恅唳" # get zvp windows
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.to(device)
